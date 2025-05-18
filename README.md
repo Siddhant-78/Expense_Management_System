@@ -19,15 +19,15 @@ A full-stack web application designed to help users track and manage their expen
 
 ## 📁 Project Structure
 
-Expense_Management_System/
-├── client/ # Frontend files
-├── config/ # Configuration files (e.g., database connection)
-├── controllers/ # Route handlers
-├── models/ # Mongoose models
-├── routes/ # API routes
-├── .env # Environment variables
-├── package.json # Project metadata and dependencies
-└── server.js # Entry point of the application
+<pre> Expense_Management_System/ 
+      ├── client/ # Frontend files 
+      ├── config/ # Configuration files (e.g., database connection)
+      ├── controllers/ # Route handlers 
+      ├── models/ # Mongoose models 
+      ├── routes/ # API routes 
+      ├── .env # Environment variables 
+      ├── package.json # Project metadata and dependencies 
+      └── server.js # Entry point of the application </pre>
 
 
 ## ⚙️ Installation
